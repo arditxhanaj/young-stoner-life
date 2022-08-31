@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=young-stoner-life" alt="young-stoner-life" /></a> </p>
 
-- 🌱 Currently learning PHPUnit for backend tests.**
+- 🌱 Currently learning PHPUnit for backend tests.
 
 - 🌱 I've recently finished **The Complete 2021 Web Development Bootcamp on Udemy.**
 
